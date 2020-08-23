@@ -6,6 +6,6 @@ fix radix to base 10
 #### 2-sort.rb
 fix insert to i rather than i-1
 #### 3-user.py
-fix if removing not 
+fix missing _ 
 #### 4-delete_dnodeint/
-fix typo in delete
+fix links when removing index > 0 
